@@ -8,9 +8,7 @@ O **WhatsApp Web Prefixer** é uma extensão de navegador, baseada no **Manifest
 
 ## Download
 
-**Download disponível em:**  
-[Release](realise-link)
-
+**Download disponível em:**  [whatsapp-web-prefixer v1.0](https://github.com/caa-nm/whatsapp-web-prefixer/releases/tag/Main)
 
 
 ## Contexto e Motivação
