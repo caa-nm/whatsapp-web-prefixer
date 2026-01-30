@@ -25,3 +25,9 @@ O **CAA-NM** mantém o código aberto a contribuições e auditorias, incentivan
 
 Atenciosamente,  
 **Equipe de Informática**
+
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->

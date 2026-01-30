@@ -1,0 +1,10 @@
+{
+  "files": ["README.md"],
+  "imageSize": 100,
+  "commit": true,
+  "contributorsPerLine": 7,
+  "projectName": "whatsapp-web-prefixer",
+  "projectOwner": "Centro-de-Agricultura-Alternativa-MG",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
