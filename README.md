@@ -25,8 +25,3 @@ O **CAA-NM** mantém o código aberto a contribuições e auditorias, incentivan
 
 Atenciosamente,  
 **Equipe de Informática**
-
-## Contribuidores
-
-- @vnscss
-- @luissoaresg
