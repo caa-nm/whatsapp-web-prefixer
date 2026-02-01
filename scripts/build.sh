@@ -30,13 +30,26 @@ cp "$ROOT_DIR/src/templates/manifest.$TARGET.json" \
 # -----------------------------
 # content.js
 # backend/classes/* + backend/*
+# (EXCLUDING background.js)
 # -----------------------------
 cat \
   src/backend/classes/*.js \
-  src/backend/*.js \
+  $(ls src/backend/*.js | grep -v 'background.js') \
   > "$UNPACKED_DIR/content.js"
 
-echo "✔ content.js built"
+echo "✔ content.js built (background.js excluded)"
+
+# -----------------------------
+# background.js (separate)
+# BrowserStorage + background.js
+# -----------------------------
+cat \
+  src/backend/classes/BrowserStorage.js \
+  src/backend/background.js \
+  > "$UNPACKED_DIR/background.js"
+
+
+echo "✔ background.js copied separately"
 
 # -----------------------------
 # popup.js
