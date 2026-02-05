@@ -24,7 +24,7 @@ Se você encontrar um erro, por favor abra uma **Issue** detalhando:
    ```bash
    git push origin feature/nome-da-feature
    ```
-5. Abra um **Pull Request (PR)** para a branch principal (`main` ou `master`) do repositório original.
+5. Abra um **Pull Request (PR)** para a branch `dev` do repositório original.
 
 ## Commits Semânticos
 
@@ -47,4 +47,4 @@ Utilizamos o padrão de **Git Semântico (Conventional Commits)**. Seus commits 
 
 - O código deve ser legível e seguir os padrões do projeto.
 - Desccreva brevemente o que foi feito no PR.
-- Certifique-se de que sua branch está atualizada com a `main` original antes de enviar.
+- Certifique-se de que sua branch está atualizada com a `dev` original antes de enviar.
